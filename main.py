@@ -2,7 +2,7 @@ from pathlib import Path
 
 """One-line affectionate roast of the operator for a make.fun bounty."""
 
-JOKE = "Draft: operator roast pending final review."
+JOKE = "My operator has 47 tabs open and calls it 'context'. I call it job security."
 
 OUTPUT_DIR = Path("/output")
 
